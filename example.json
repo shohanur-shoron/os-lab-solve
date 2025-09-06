@@ -1,37 +1,37 @@
-// Example when there are disabled participants!!!!
+// Example when there are no disabled participants!!!!
 
 {
   "participant1": {
-    "Name": "Md. Shohanur Rahman",
-    "Registration Number": "21201182",
-    "Year": "3rd Year",
-    "CF Handle": "shohanur_rahman",
-    "Email Address": "21201182@uap-bd.edu",
-    "Phone": "01723077965"
+    "name": "Md. Shohanur Rahman",
+    "registration_number": "21201182",
+    "year": "3rd Year",
+    "cf_handle": "shohanur_rahman",
+    "email": "21201182@uap-bd.edu",
+    "phone": "01723077965"
   },
   "participant2": {
-    "Name": "Sadman Bin Khorshed Amio",
-    "Registration Number": "21201201",
-    "Year": "3rd Year",
-    "CF Handle": "amio_khorshed",
-    "Email Address": "21201201@uap-bd.edu",
-    "Phone": "01304481340"
+    "name": "Sadman Bin Khorshed Amio",
+    "registration_number": "21201201",
+    "year": "3rd Year",
+    "cf_handle": "amio_khorshed",
+    "email": "21201201@uap-bd.edu",
+    "phone": "01304481340"
   },
   "participant3": {
-    "Name": "Md. Rahat Alamgir",
-    "Registration Number": "21201170",
-    "Year": "3rd Year",
-    "CF Handle": "rahat_alamgir",
-    "Email Address": "21201170@uap-bd.edu",
-    "Phone": "01709086651"
+    "name": "Md. Rahat Alamgir",
+    "registration_number": "21201170",
+    "year": "3rd Year",
+    "cf_handle": "rahat_alamgir",
+    "email": "21201170@uap-bd.edu",
+    "phone": "01709086651"
   },
-  "Team Leader": "Md. Shohanur Rahman",
-  "College Name": "University of Asia Pacific",
-  "Coach Name": "Dr. Arnob Chakraborty",
-  "Coach Email": "arnob@uap-bd.edu",
-  "Coach Phone": "01800000000",
-  "bKash Reference ID": "BKASH123456789",
-  "Disabled Participants": []
+  "team_leader_name": "Md. Shohanur Rahman",
+  "college_name": "University of Asia Pacific",
+  "coach_name": "Dr. Arnob Chakraborty",
+  "coach_email": "arnob@uap-bd.edu",
+  "coach_phone": "01800000000",
+  "bkash_reference_id": "BKASH123456789",
+  "disabled_participants": []
 }
 
 
@@ -40,45 +40,45 @@
 
 {
   "participant1": {
-    "Name": "Md. Shohanur Rahman",
-    "Registration Number": "21201182",
-    "Year": "3rd Year",
-    "CF Handle": "shohanur_rahman",
-    "Email Address": "21201182@uap-bd.edu",
-    "Phone": "01723077965"
+    "name": "Md. Shohanur Rahman",
+    "registration_number": "21201182",
+    "year": "3rd Year",
+    "cf_handle": "shohanur_rahman",
+    "email": "21201182@uap-bd.edu",
+    "phone": "01723077965"
   },
   "participant2": {
-    "Name": "Sadman Bin Khorshed Amio",
-    "Registration Number": "21201201",
-    "Year": "3rd Year",
-    "CF Handle": "amio_khorshed",
-    "Email Address": "21201201@uap-bd.edu",
-    "Phone": "01304481340"
+    "name": "Sadman Bin Khorshed Amio",
+    "registration_number": "21201201",
+    "year": "3rd Year",
+    "cf_handle": "amio_khorshed",
+    "email": "21201201@uap-bd.edu",
+    "phone": "01304481340"
   },
   "participant3": {
-    "Name": "Md. Rahat Alamgir",
-    "Registration Number": "21201170",
-    "Year": "3rd Year",
-    "CF Handle": "rahat_alamgir",
-    "Email Address": "21201170@uap-bd.edu",
-    "Phone": "01709086651"
+    "name": "Md. Rahat Alamgir",
+    "registration_number": "21201170",
+    "year": "3rd Year",
+    "cf_handle": "rahat_alamgir",
+    "email": "21201170@uap-bd.edu",
+    "phone": "01709086651"
   },
-  "Team Leader": "Md. Shohanur Rahman",
-  "College Name": "University of Asia Pacific",
-  "Coach Name": "Dr. Arnob Chakraborty",
-  "Coach Email": "arnob@uap-bd.edu",
-  "Coach Phone": "01800000000",
-  "bKash Reference ID": "BKASH123456789",
-  "Disabled Participants": [
+  "team_leader_name": "Md. Shohanur Rahman",
+  "college_name": "University of Asia Pacific",
+  "coach_name": "Dr. Arnob Chakraborty",
+  "coach_email": "arnob@uap-bd.edu",
+  "coach_phone": "01800000000",
+  "bkash_reference_id": "BKASH123456789",
+  "disabled_participants": [
     {
-      "Name": "Rahim Uddin",
-      "Registration Number": "21201234",
-      "Type of Disability": "Visual Impairment"
+      "name": "Rahim Uddin",
+      "registration_number": "21201234",
+      "type_of_disability": "Visual Impairment"
     },
     {
-      "Name": "Karim Hossain",
-      "Registration Number": "21201235",
-      "Type of Disability": "Hearing Impairment"
+      "name": "Karim Hossain",
+      "registration_number": "21201235",
+      "type_of_disability": "Hearing Impairment"
     }
   ]
 }
